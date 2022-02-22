@@ -1,5 +1,6 @@
 *.dll
 *.xml
 *.iml
-
-
+.gitignore
+__pycache__
+/.idea/.gitignore
